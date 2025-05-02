@@ -1,0 +1,1 @@
+# SystemInfo GameMaker Extension
