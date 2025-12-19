@@ -78,7 +78,6 @@
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libsysinfo.dylib","TargetMask":1,},
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libsysinfo.so","TargetMask":7,},
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libsysinfo_arm64.so","TargetMask":7,},
-        {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libsysinfo_arm.so","TargetMask":7,},
       ],"uncompress":false,"usesRunnerInterface":false,},
     {"resourceType":"GMExtensionFile","resourceVersion":"1.0","name":"libsysinfo.zip","constants":[],"copyToTargets":0,"filename":"libsysinfo.zip","final":"","functions":[],"init":"","kind":4,"order":[],"origname":"","ProxyFiles":[],"uncompress":false,"usesRunnerInterface":false,},
   ],
